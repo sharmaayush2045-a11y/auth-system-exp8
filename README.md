@@ -34,7 +34,7 @@ auth-system/
 │
 └── screenshots/         # Proof of Execution (6 Mandatory Screens)
 
----
+```
 
 ## 📸 Proof of Execution
 
